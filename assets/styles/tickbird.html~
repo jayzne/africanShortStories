@@ -9,11 +9,13 @@
 <div class="menu-wrap">
   <div class="menu">
     <ul>
-      <li><a href="index.html" >home</a></li>
-      <li><a href="about.html"class="active">about</a></li>
-      <li><a href="services.html">Gallery</a></li>
-      <li><a href="contact.html">Contact</a></li>
-    </ul>
+       <li><a href="index.html">Home</a></li>
+      <li><a href="hippo.html"class="active">Hippo</a></li>
+      <li><a href="tickbird.html" class="active">Tickbird</a></li>
+      <li><a href="lion.html">Lion</a></li>
+      <li><a href="tortoise.html">Tortoise</a></li>
+      <li><a href="monkey.html">Monkey</a></li>
+      <li><a href="elephant.html">Elephant</a></li>
   </div>
 </div> </head>
     <body>
