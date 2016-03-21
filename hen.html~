@@ -14,20 +14,21 @@
       <li><a href="tickbird.html">Tickbird</a></li>
       <li><a href="lion.html">Lion</a></li>
       <li><a href="tortoise.html">Tortoise</a></li>
-      <li><a href="monkey.html" class="active">Monkey</a></li>
+      <li><a href="monkey.html">Monkey</a></li>
       <li><a href="elephant.html">Elephant</a></li>
       <li><a href="squirrel.html">Squirrel</a></li>
       <li><a href="guinea.html">Guinea Fowl</a></li>
       <li><a href="woodpecker.html">Woodpecker</a></li>
-</ul>
+      <li><a href="hen.html" class="active">Hen</a></li>
+    </ul>
   </div>
 </div> </head>
     <body>
     <div class="clearing"></div>
 <div class="header">
   <div class="logo">
-    <h1>Why monkey swings on trees</h1>
+    <h1>Why hen pecks the ground</h1>
   </div>
-    <p>There was once a time when monkey did not swing in the trees.
-He used to play on the ground and loved to wind nasty crocodile up. When the big rains came to the jungle land, monkey got stranded high up the mango tree. Needing crocodile's help, he promised to give him his heart in exchange for being safely returned to dry land. This made the crocodile more interested since he would have otherwise left monkey for dead after the way he used to rile him up. Crocodile fulfilled his end of the bargain but monkey tricked him by throwing a juicy, red mango instead and running fast on his heels. Crocodile was furious to find out he had been tricked and vowed to get back at monkey for this. From that day on, monkey swings from branch to branch keeping well clear of crocodile's snapping jaws.</p>
+<p>There was a time when hen did not peck the ground. She was a proud mother who spent all her time looking after and cleaning her chicks. One day, fancy pancy peacock upset mother hen and made her feel plain. All the animals were furious with snooty peacock but the damage had already been done. Eagle, mother hen's best friend, decided to lend hen her most prized possession, a needle. Mother hen sewed herself the most beautiful coat of new feathers. Everyone was delighted and they danced and danced and danced. But mother hen forgot all about the needle and it got lost in all the dust. She tried to clean up and had to disarrange her furniture, going as far as to even engage the help of her chicks but it was nowhere to be found. From that day on hen always pecks the ground looking for the needle to return to her friend. </p>
+    
 </html>

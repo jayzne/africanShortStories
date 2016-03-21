@@ -21,6 +21,8 @@
           <a href="elephant.html">Elephant</a>
            <a href="squirrel.html">Squirrel</a>
            <a href="guinea.html">Guinea Fowl</a>
+          <a href="woodpecker.html">Woodpecker</a>
+          <a href="hen.html">Hen</a>
           </nav>
           </header>
       <section>
@@ -44,6 +46,8 @@
           <a href="elephant.html">Elephant</a>
           <a href="squirrel.html">Squirrel</a>
           <a href="guinea.html">Guinea Fowl</a>
+           <a href="woodpecker.html">Woodpecker</a>
+          <a href="hen.html">Hen</a>
           </nav>
       </footer>
   </body>
