@@ -20,6 +20,7 @@
           <a href="monkey.html">Monkey</a>
           <a href="elephant.html">Elephant</a>
            <a href="squirrel.html">Squirrel</a>
+           <a href="guinea.html">Guinea Fowl</a>
           </nav>
           </header>
       <section>
@@ -42,6 +43,7 @@
           <a href="monkey.html">Monkey</a>
           <a href="elephant.html">Elephant</a>
           <a href="squirrel.html">Squirrel</a>
+          <a href="guinea.html">Guinea Fowl</a>
           </nav>
       </footer>
   </body>
