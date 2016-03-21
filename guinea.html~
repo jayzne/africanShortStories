@@ -16,7 +16,9 @@
       <li><a href="tortoise.html">Tortoise</a></li>
       <li><a href="monkey.html">Monkey</a></li>
       <li><a href="elephant.html">Elephant</a></li>
-      <li><a href="squirrel.html" class="active">Squirrel</a></li>
+      <li><a href="squirrel.html">Squirrel</a></li>
+      <li><a href="guinea.html" class="active">Guinea Fowl</a></li>
+
     </ul>
   </div>
 </div> </head>
@@ -24,8 +26,8 @@
     <div class="clearing"></div>
 <div class="header">
   <div class="logo">
-    <h1>Why squirrel gathers nuts</h1>
+    <h1>Why guinea fowl has dots</h1>
   </div>
-<p>There was once a time when squirrel did not gather nuts. She lived in her burrowed hole and was far too busy braiding her bushy tail all day every day, ignoring her personal chores and royally given duties. A very dry drought hit the jungle one year and there was very little food left to feed the animals since all their saved stock was used up. Lion summoned all the animals to pull together and help find food for everyone, especially since some animals were already weakened and were dying. having hardly eaten anything for days. Squirrel was too busy braiding her tail to join in, but when she finally realised that there was not enough food to go round, she raced around gathering nuts for all the animals. Even to this very day, squirrel runs around gathering nuts.</p>
+<p>There was a time when guinea fowl did not have dots in her feathers. She was an adventurous bird and loved to discover things. One day tortoise challenged her to find out why the top of the jungle's one and only mountain was always shining. Guinea fowl could not resist this as curiosity got the better of her. Off she went, over the desert, past the ocean, up to the very top of the mountain where she indeed did discover why the mountain top shines:snow. Guinea Fowl is the first ever animal to see snow!</p>
     
 </html>
