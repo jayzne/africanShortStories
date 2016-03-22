@@ -1,11 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
+<html>
   <head>
     <meta http-equiv="Content-Type" content="text/html"; charset="utf-8" />
     <title>African Short Stories</title>
       <link href='http://fonts.googleapis.com/css?family=Droid+Serif' rel='stylesheet' type='text/css'>
       <link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
-      <link rel="styles" href="assets/styles/main.css" type="text/css" />
+      <link rel="stylesheet" href="assets/styles/main.css" type="text/css" />
   </head>
   <body>
       <header>
@@ -39,19 +38,19 @@
           </section>
       <footer>
       <small>&copy; African Short Stories</small>
-           <nav>
-          <a href="index.html">Home</a>
-          <a href="hippo.html">Hippo</a>
-          <a href="tickbird.com">Tickbird</a>
-          <a href="lion.html">Lion</a>
-          <a href="tortoise.html">Tortoise</a>
-          <a href="monkey.html">Monkey</a>
-          <a href="elephant.html">Elephant</a>
-          <a href="squirrel.html">Squirrel</a>
-          <a href="guinea.html">Guinea Fowl</a>
-           <a href="woodpecker.html">Woodpecker</a>
-          <a href="hen.html">Hen</a>
-          </nav>
+         <ul>
+          <li><a href="index.html" class="active">Home</a></li>
+          <li><a href="hippo.html">Hippo</a></li>
+          <li><a href="tickbird.com">Tickbird</a></li>
+          <li><a href="lion.html">Lion</a></li>
+          <li><a href="tortoise.html">Tortoise</a></li>
+          <li><a href="monkey.html">Monkey</a></li>
+          <li><a href="elephant.html">Elephant</a></li>
+          <li><a href="squirrel.html">Squirrel</a></li>
+          <li><a href="guinea.html">Guinea Fowl</a></li>
+          <li><a href="woodpecker.html">Woodpecker</a></li>
+          <li><a href="hen.html">Hen</a></li>
+          </ul>
       </footer>
   </body>
 </html>
